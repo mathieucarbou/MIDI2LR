@@ -890,6 +890,12 @@
     false
   },
   {
+    "SaturationAdjustment",
+    "Saturation Adjustments",
+    "Color Adjustments",
+    false
+  },
+  {
     "HueAdjustmentRed",
     "Hue Adjustment Red",
     "Color Adjustments",
@@ -1090,6 +1096,12 @@
   {
     "ResetSaturationAdjustmentMagenta",
     "Reset Saturation Adjustment Magenta",
+    "Reset Color Adjustments",
+    true
+  },
+  {
+    "ResetSaturationAdjustment",
+    "Reset Saturation Adjustments",
     "Reset Color Adjustments",
     true
   },
