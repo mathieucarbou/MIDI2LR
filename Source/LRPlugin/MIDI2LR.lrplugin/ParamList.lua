@@ -808,6 +808,7 @@
     "SaturationAdjustmentBlue",
     "SaturationAdjustmentPurple",
     "SaturationAdjustmentMagenta",
+    "SaturationAdjustment",
     "HueAdjustmentRed",
     "HueAdjustmentOrange",
     "HueAdjustmentYellow",
@@ -1269,6 +1270,10 @@
     "Saturation Adjustment Magenta",
     166
   },
+  --[[SaturationAdjustment = {
+    "Saturation Adjustment Magenta",
+    193
+  },]]
   SaturationAdjustmentOrange = {
     "Saturation Adjustment Orange",
     160
@@ -1750,6 +1755,7 @@
   ResetSaturationAdjustmentPurple = "mixerPanel",
   ResetSaturationAdjustmentRed = "mixerPanel",
   ResetSaturationAdjustmentYellow = "mixerPanel",
+  ResetSaturationAdjustment = "mixerPanel",
   ResetShadowTint = "calibratePanel",
   ResetShadows = "adjustPanel",
   ResetSharpenDetail = "detailPanel",
@@ -1776,6 +1782,7 @@
   SaturationAdjustmentPurple = "mixerPanel",
   SaturationAdjustmentRed = "mixerPanel",
   SaturationAdjustmentYellow = "mixerPanel",
+  SaturationAdjustment = "mixerPanel",
   ShadowTint = "calibratePanel",
   Shadows = "adjustPanel",
   SharpenDetail = "detailPanel",
